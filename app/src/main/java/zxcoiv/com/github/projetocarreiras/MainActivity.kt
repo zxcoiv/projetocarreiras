@@ -51,7 +51,7 @@ class MainActivity : ComponentActivity() {
                             })
                         ) {
                             PedidosScreen(modifier = Modifier.padding(innerPadding),
-                                navController, it.arguments?.getString("Cliente"))
+                                navController, it.arguments?.getString("cliente"))
                         }
                         composable(
                             route = "perfil/{nome}/{idade}",
