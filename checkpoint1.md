@@ -6,7 +6,10 @@ Esse projeto é a implementação da navegação entre múltiplas telas em um ap
 ## Objetivo da Avaliação
 Essa avaliação tem como objetivo avaliar a capacidade do aluno de evoluir um projeto já iniciado, demonstrando como e por que a solução funciona.
 
-## Explicação
+## Explicação dos Commits
 ### `cc0ed74` - colocado passagem de parâmetros para tela de perfil
 
 ### `a34362b` - colocado passagem de parâmetros opcionais na tela de pedidos
+
+### `521eee7` - mockando dado ao parâmetro opcional na tela de pedidos
+
