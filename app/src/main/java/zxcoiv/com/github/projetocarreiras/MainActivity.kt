@@ -46,9 +46,10 @@ class MainActivity : ComponentActivity() {
                             PedidosScreen(modifier = Modifier.padding(innerPadding),
                                 navController)
                         }
-                        composable(route = "perfil") {
+                        composable(route = "perfil/{nome}") {
+                            var nome: String? = it.arguments?.getString("nome", "Usuário Genérico")
                             PerfilScreen(modifier = Modifier.padding(innerPadding),
-                                navController)
+                                navController, nome!!)
                         }
                     }
                 }
