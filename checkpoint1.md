@@ -7,4 +7,4 @@ Esse projeto é a implementação da navegação entre múltiplas telas em um ap
 Essa avaliação tem como objetivo avaliar a capacidade do aluno de evoluir um projeto já iniciado, demonstrando como e por que a solução funciona.
 
 ## Explicação
-TODO
+### `cc0ed74` - colocado passagem de parâmetros para tela de perfil
